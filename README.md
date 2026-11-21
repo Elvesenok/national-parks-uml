@@ -80,3 +80,5 @@ classDiagram
 ## Source
 
 The diagram source is maintained in this README as Mermaid and can be edited in Mermaid-compatible UML tools or in GitHub.
+
+Public project: https://github.com/Elvesenok/national-parks-uml
